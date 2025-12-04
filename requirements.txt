@@ -4,3 +4,5 @@ aiohttp_socks
 urllib3
 termcolor
 pyfiglet
+colorama
+random
