@@ -6,3 +6,5 @@ termcolor
 pyfiglet
 colorama
 random
+itertools
+os
